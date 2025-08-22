@@ -1,5 +1,5 @@
 # MERN-BUS-APP
-## MFRP (My First Real Project) assigned by Cognizant during Internship
+## MFRP (My First Real Project)
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
@@ -41,27 +41,6 @@ The Bus ticket application is composed of the following Features:
 This project also demonstrates:
 
 * a typcial React project layout structure
-
-**Screenshots:**
-Landing Page:
-
-![](documentationResources/bus.gif)
-
-Signing In Page:
-
-![](documentationResources/signin.png)
-
-Bus Selection Page:
-
-![](documentationResources/bus-page.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatSelection.gif)
-
-Payment & Confirmation Page:
-![](documentationResources/payment.gif)
----
 
 ## Developed With
 
@@ -113,16 +92,6 @@ Follow the following steps to get development environment running.
   git clone git@github.com:AdityaKumawat97/MERN-BUS-APP.git
   ```
 
-* Install node modules
-
-   ```bash
-   cd MERN-BUS-APP
-   cd frontend
-   npm install
-   cd..
-   cd backend
-   npm install
-   ```
 
 
 ### Starting both front end and back end servers
